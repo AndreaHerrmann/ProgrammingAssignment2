@@ -1,5 +1,5 @@
 ## makeCacheMatrix defines and saves a list of functions in the cache
-## functions do
+## functions do calculate the inverse of a matrux
 
 ## The function makeCacheMatrix saves the matrix x and its inverse to a list in a cache, and the functions used
 
